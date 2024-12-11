@@ -42,3 +42,8 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 17.0
+
+[submodule "ingadhoc/stock"]
+	path = ingadhoc/stock
+	url = git@github.com:ingadhoc/stock.git
+	branch = 17.0
